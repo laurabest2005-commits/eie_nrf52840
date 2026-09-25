@@ -6,3 +6,6 @@ git push - uploads local commits to remote
 git merge - combines given branches commits into branch you are currently on
 git rebase - replays commits on top of another branch
 git fetch - downloads new commits from remote without changing current branch
+git add - moves changes to staging area
+git status - shows which files are modified, staged, or untracked
+git log - shows commit history of current branch
